@@ -110,7 +110,7 @@ ul li a {
 
   padding: 16px 24px;
 
-  /* AQUI MUDAMOS PARA VARIÁVEIS 👇 */
+  /* AQUI MUDAMOS PARA VARIÁVEIS */
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
 
